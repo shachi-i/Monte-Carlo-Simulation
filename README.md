@@ -10,7 +10,7 @@ Instead of using traditional machine learning algorithms, this method leverages 
 - Capture the range of possible outcomes to understand risk and volatility.
 - Compare simulated predictions with actual market performance.
 
-🧩 Why Monte Carlo (and not ML)?
+ Why Monte Carlo (and not ML)?
 
 Unlike machine learning models that rely heavily on past data patterns, Monte Carlo Simulation focuses on probabilistic modeling. It doesn’t assume that history repeats perfectly. Instead, it explores many potential futures by running thousands of random trials, making it ideal for forecasting in uncertain or chaotic markets.
 
@@ -27,7 +27,7 @@ Data Collection:
 - Visualization: Displayed simulated trajectories to understand the range of outcomes.
 
 - Validation: Predicted price for Sept 29: $255.41
-              Actual closing price: $253.81 ✅
+              Actual closing price: $253.81 
 
 ## Tools & Libraries
 
@@ -49,7 +49,7 @@ Confidence intervals:
 
 98% range → wider risk spread
 
-✅ Model captured realistic market uncertainty and produced a close-to-actual forecast, highlighting the strength of stochastic simulations.
+ Model captured realistic market uncertainty and produced a close-to-actual forecast, highlighting the strength of stochastic simulations.
 
 ## Learnings
 
@@ -69,6 +69,6 @@ Build an interactive dashboard for visualization.
 
 💬 Author
 
-👩‍💻 [Your Name]
+👩‍💻 Shachi
 A Computer Science student exploring Quantitative Finance, Machine Learning, and Data Science.
-Fascinated by how randomness, probability, and code can model financial reality 🎯
+Fascinated by how randomness, probability, and code can model financial reality 
